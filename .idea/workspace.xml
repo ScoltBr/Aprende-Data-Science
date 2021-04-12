@@ -41,7 +41,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PythonProjetos" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -87,6 +87,7 @@
       <option name="presentableId" value="Default" />
       <updated>1602033228717</updated>
       <workItem from="1602033242558" duration="1421000" />
+      <workItem from="1602249963223" duration="89000" />
     </task>
     <servers />
   </component>
@@ -115,8 +116,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="611" y="205" key="FileChooserDialogImpl" timestamp="1602250052461">
+      <screen x="62" y="0" width="1538" height="900" />
+    </state>
+    <state x="611" y="205" key="FileChooserDialogImpl/62.0.1538.900@62.0.1538.900" timestamp="1602250052461" />
     <state width="1495" height="236" key="GridCell.Tab.0.bottom" timestamp="1602035974880">
       <screen x="62" y="0" width="1538" height="900" />
     </state>
